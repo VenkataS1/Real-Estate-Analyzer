@@ -1,5 +1,3 @@
-"# MERN-REAL-ESTATE"
-
 # MERN Real Estate Application
 
 ## Overview
