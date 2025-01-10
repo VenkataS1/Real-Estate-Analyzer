@@ -1,19 +1,19 @@
 # MERN Real Estate Application
 
 ## Overview
-A comprehensive full-stack web application for listing real estate properties, built on the MERN (MongoDB, Express.js, React.js, Node.js) technology stack. It allows users to explore, search, and filter properties based on their preferred criteria.
+This is a full-stack web application for real estate listings built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to browse, search, and filter property listings based on various criteria.
 
 ## Features
-- **Secure User Authentication**: Users can create accounts, sign in, and securely sign out.
-- **Property Listings**: View extensive details of available properties, including images, descriptions, prices, and precise locations.
-- **Advanced Search & Filtering**: Filter properties based on location, type, price, and more.
-- **Responsive Layout**: Enjoy a seamless user experience across desktop, tablet, and mobile devices.
-- **Admin Panel**: Administrators can add, update, and remove property listings via a dedicated dashboard.
-- **OAuth Integration**: Users can log in using third-party providers (Google, Facebook, etc.).
+- User authentication: Users can sign up, sign in, and sign out securely.
+- Property listings: Users can view details of available properties, including images, descriptions, prices, and location.
+- Search and filter: Users can search for properties based on location, type, price, and other criteria.
+- Responsive design: The application is fully responsive and works seamlessly on desktop, tablet, and mobile devices.
+- Admin panel: Administrators can add, edit, and delete property listings via an admin dashboard.
+- OAuth integration: Users can sign in using OAuth authentication providers such as Google or Facebook.
 
 ## Technologies Used
-- **Frontend**: React.js, HTML, CSS, JavaScript  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **Authentication**: JSON Web Tokens (JWT), OAuth  
-- **Deployment**: Render  
+- **Frontend**: React.js, HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Authentication**: JSON Web Tokens (JWT), OAuth
+- **Deployment**: Render
